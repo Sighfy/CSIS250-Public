@@ -1,0 +1,12 @@
+Convert Newton’s method for approximating square roots in Project 1 to a recursive function named newton.
+(Hint: The estimate of the square root should be passed as a second argument to the function.)
+
+An example of the program input and output is shown below:
+
+example:
+
+Enter a positive number or enter/return to quit: 2
+
+The program's estimate is 1.4142135623746899
+Python's estimate is      1.4142135623730951
+Enter a positive number or enter/return to quit

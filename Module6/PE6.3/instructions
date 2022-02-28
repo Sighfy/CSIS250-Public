@@ -1,0 +1,13 @@
+Elena complains that the recursive newton function in Project 2 includes an
+extra argument for the estimate. The function’s users should not have to
+provide this value, which is always the same, when they call this function.
+Modify the definition of the function so that it uses a keyword argument
+with the appropriate default value, and call the function without a
+second argument to demonstrate that it solves this problem.
+
+Example:
+Enter a positive number or enter/return to quit: 2
+
+The program's estimate is 1.4142135623746899
+Python's estimate is      1.4142135623730951
+Enter a positive number or enter/return to quit
